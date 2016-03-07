@@ -1,0 +1,5 @@
+code,title,value,latest_date,source,source_link,notes,explore,units
+FTCW001,Number of People Killed (Tropical Cyclone Winston in Fiji),43,2016-03-02,Multiple Sources,https://data.hdx.rwlabs.org/dataset/fiji-tropical-cyclone-winston-topline-figures,Number of people killed by Tropical Cyclone Winston in Fiji,,count
+FTCW002,Number of People Injured (Tropical Cyclone Winston in Fiji),126,2016-02-28,Multiple Sources,https://data.hdx.rwlabs.org/dataset/fiji-tropical-cyclone-winston-topline-figures,Number of people injured by Tropical Cyclone Winston in Fiji,,count
+FTCW003,Number of evacuation centres (Tropical Cyclone Winston in Fiji),618,2016-03-07,Multiple Sources,https://data.hdx.rwlabs.org/dataset/fiji-tropical-cyclone-winston-topline-figures,Number of evacuation centres,,count
+FTCW004,Number of evacuees (Tropical Cyclone Winston in Fiji),20000,2016-03-07,Multiple Sources,https://data.hdx.rwlabs.org/dataset/fiji-tropical-cyclone-winston-topline-figures,Number of people sheltered in the evacuation centres,,count
